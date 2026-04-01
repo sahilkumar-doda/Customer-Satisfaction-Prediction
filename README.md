@@ -1,0 +1,1 @@
+This project focuses on predicting customer satisfaction ratings (1–5) using customer support ticket data. It involves data preprocessing, exploratory data analysis (EDA), feature engineering, and building a machine learning model to understand factors affecting customer experience.
